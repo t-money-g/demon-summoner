@@ -1,0 +1,25 @@
+d:assets:0:application/unknown
+i:armor 1.PNG:138137:image/png
+i:badlogic.jpg:68465:image/jpeg
+i:Book.png:1711:image/png
+b:Bryant's level.tmx:62371:application/unknown
+i:DemonCastle1.png:1529687:image/png
+i:Devil.png:497443:image/png
+b:dungeon map.tmx:11919:application/unknown
+b:dungeon map.tmx.Iw1964:0:application/unknown
+i:Dungeon_C.png:649991:image/png
+i:enemy1.png:567:image/png
+b:grasslands.tmx:1909:application/unknown
+i:Outside_B.png:633852:image/png
+i:playerSprite_1.png:1313:image/png
+b:ritualsite.tmx:5903:application/unknown
+i:Sword.png:985:image/png
+i:tilesheet.png:476950:image/png
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5163:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8948:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:870:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2923:application/unknown
+t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown
+i:com/badlogic/gdx/utils/arial-15.png:21814:image/png
